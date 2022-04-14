@@ -1,0 +1,52 @@
+#frontPage{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+#form{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 2px;
+  background-color: transparent;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+
+#list{
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  border-style: solid;
+  border-radius: 15px;
+  min-width: 300px;
+  min-height: 500px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  letter-spacing: 2px;
+  line-height: 35px;
+}
+
+#button{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+letter-spacing: 2px;
+background-color: white;
+margin-left: 10px;
+border-radius: 4px;
+}
+
+header{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+font-weight: lighter;
+letter-spacing: 2px;
+}
+
+
+.background-image{
+  background: url("https://images.pexels.com/photos/1470171/pexels-photo-1470171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

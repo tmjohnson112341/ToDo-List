@@ -1,4 +1,4 @@
-# Capstone: Restaurant Reservation System
+# To Do List
 A simple front-end single page React To-Do List application that allows to add, delete, and cross out tasks. 
 
 
